@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:1-238:12
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:1-238:12
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:1-238:12
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:1-238:12
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:1-238:12
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:1-238:12
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:1-238:12
+	package
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:196:5-28
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:198:5-30
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:195:11-69
+	android:versionCode
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:197:5-28
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:200:5-201:41
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:200:5-201:41
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:200:5-201:41
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:200:5-201:41
+INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:200:5-201:41
+	android:targetSdkVersion
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:201:9-38
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:200:5-201:41
+		INJECTED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:203:5-67
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:203:22-64
+application
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:205:5-236:19
+	android:label
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:208:9-41
+	android:icon
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:207:9-45
+	android:allowBackup
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:206:9-35
+	android:theme
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:209:9-40
+activity#pisto.net.pos.activity.OAuthActivity
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:210:9-218:20
+	android:noHistory
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:212:13-37
+	android:theme
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:213:13-60
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:211:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:214:13-217:29
+action#android.intent.action.MAIN
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:215:17-69
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:215:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:216:17-77
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:216:27-74
+activity#pisto.net.pos.activity.AuthenticateActivity
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:219:9-231:20
+	android:launchMode
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:222:13-48
+	android:noHistory
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:221:13-37
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:220:13-71
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/customAppProtocol
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:223:13-230:29
+action#android.intent.action.VIEW
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:224:17-69
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:224:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:225:17-76
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:225:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:226:11-72
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:226:21-69
+data
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:229:17-67
+	android:scheme
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:229:23-65
+activity#pisto.net.pos.activity.MainActivity
+ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:232:9-235:20
+	android:label
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:234:13-45
+	android:name
+		ADDED from C:\My Projects\TechnoPrepay\JCV compile of Shawn Android\UnMillondeAmigos-Banco-Hipotecario-hackathon\app\src\main\AndroidManifest.xml:233:13-63

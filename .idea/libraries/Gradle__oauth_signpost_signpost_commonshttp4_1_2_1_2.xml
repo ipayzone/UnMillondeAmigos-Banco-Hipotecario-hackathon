@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: oauth.signpost:signpost-commonshttp4:1.2.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BlueWallet-6.1.6/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/731e05de30cfeb1f41d417f886277f9597fe0f36/signpost-commonshttp4-1.2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../BlueWallet-6.1.6/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/39e94ff7c31fcb262be68fd0b7c46b078e069ad5/signpost-commonshttp4-1.2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../BlueWallet-6.1.6/caches/modules-2/files-2.1/oauth.signpost/signpost-commonshttp4/1.2.1.2/800090917f3bc70acf695986c95245e80c13e06f/signpost-commonshttp4-1.2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
